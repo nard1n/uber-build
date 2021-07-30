@@ -16,6 +16,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
     "react-native-web": "~0.13.12",
     "react-redux": "^7.2.4",
+    "tailwind-react-native-classnames": "^1.4.1",
     "watchman": "^1.0.0"
   },
   "devDependencies": {
