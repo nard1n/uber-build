@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { FlatList, StyleSheet, Text, Image, TouchableOpacity, View } from 'react-native'
 import tw from 'tailwind-react-native-classnames'
 import { Icon } from "react-native-elements"
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation } from '@react-navigation/native'
 
 const data = [
         {
